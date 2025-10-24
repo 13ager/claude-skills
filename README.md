@@ -1,4 +1,4 @@
-# 🧠 Claude Prompt Engineering Skills
+# 🧠 Claude Skills Prompting 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Built for Claude](https://img.shields.io/badge/Built%20for-Claude%20AI-8A2BE2)](#)
