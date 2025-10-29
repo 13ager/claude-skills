@@ -25,8 +25,7 @@ Each Skill:
 
 ### 💡 `/perplexity/`
 Prompt strategies and practical frameworks for getting the best results from Perplexity AI.  
-Includes: official tips, detailed instructions, and expert-level example prompts for research, summarization, and creative use.  
-Designed to help you write clearer, more effective prompts—so you can get faster, smarter answers from Perplexity.
+Includes: official tips, detailed instructions, and expert-level example prompts for research, summarization, and creative use. Designed to help you write clearer, more effective prompts—so you can get faster, smarter answers from Perplexity.
 
 ### 📽️ `/sora2/`
 Prompt frameworks for **video generation** and visual storytelling.  
