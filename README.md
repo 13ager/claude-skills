@@ -49,11 +49,7 @@ Each skill includes:
 
 ## ⚙️ How to Use
 
-1. **Copy** a skill file (`.json` or `.txt`) into your Claude workspace or Skill Builder.  
+1. **Copy** a skill file (`.zip`) into your Claude workspace or Skill Builder (Profile > Settings > Capabilities > Upload).  
 2. **Invoke** it with `/skill-name` or by typing a natural command (e.g., “Use the cinematic Sora style”).  
 3. **Adapt** examples to your project — tweak tone, tempo, or visual intent.  
 4. **Iterate** — experiment, remix, refine, and submit improvements!
-
-Example:
-```bash
-/skills/sora2/cinem
