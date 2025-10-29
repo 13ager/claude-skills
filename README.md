@@ -4,7 +4,7 @@
 [![Built for Claude](https://img.shields.io/badge/Built%20for-Claude%20AI-8A2BE2)](#)
 [![Creative AI Tools](https://img.shields.io/badge/Tools-Sora%202%20%7C%20Suno%20%7C%20Nano%20Banana-green.svg)](#)
 
-A growing collection of **Claude Skills** designed to help you write smarter, more cinematic, and more precise prompts for creative AI tools — **Sora 2**, **Suno**, and **Nano Banana**.  
+A growing collection of **Claude Skills** designed to help you write smarter, more cinematic, and more precise prompts for creative AI tools — **Perplexity**, **Sora 2**, **Suno**, and **Nano Banana**.  
 This repo is part **prompt-engineering lab**, part **creative dojo** — where we learn how to talk to generative systems so they deliver *exactly* what you imagine (or something better).
 
 ---
